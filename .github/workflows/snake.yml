@@ -16,7 +16,7 @@
             github_user_name: arqamali153-afk
             outputs: |
               dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?color_snake=#a277ff&color_dots=#0d1117,#042f2b,#085e56,#0c8c80,#14b8a6
+              dist/github-contribution-grid-snake-dark.svg?color_snake=#a277ff&color_dots=#ebedf0,#1f5751,#2d857a,#3cbaaa,#4cebd8
         - uses: crazy-max/ghaction-github-pages@v3
           with:
             target_branch: output
