@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arqamali153-afk&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" width="90%"/>
+  <img src="trophy.svg" width="90%"/>
 </p>
 </p>
 
