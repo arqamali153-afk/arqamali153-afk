@@ -51,7 +51,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arqamali153-afk&hide_border=true&bg_color=0d1117&color=14B8A6&line=14B8A6&point=c9d1d9&area=true&area_color=14B8A6" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arqamali153-afk&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" width="90%"/>
+</p>
 </p>
 
 ---
